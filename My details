@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+  printf("jeevangowda M N ");
+printf("ISE-3rd sem");
+return 0;
+}
